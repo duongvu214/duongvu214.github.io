@@ -36,3 +36,4 @@ rhythmone.com, 3630748062, RESELLER, a670c89d4a324e47
 video.unrulymedia.com, 3630748062, RESELLER, a670c89d4a324e47
 telaria.com, rwd19-3013740, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-3013740, RESELLER, 1a4e959a1b50034a
+facebook.com, 1899750690355785, DIRECT, c3e20eee3f780d68
